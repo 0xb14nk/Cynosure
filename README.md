@@ -1,6 +1,6 @@
 # Cynosure Linux
 
-> A hybrid distribution based on Artix, focused on maximum system control and secure working with AUR
+> A hybrid distribution based on Artix, focused on maximum system control and Secure working with system
 
 ## Project Progress 
 - [x] **`aura-emerge`**: Primary package manager (handles standard repos, AUR, and ABS inside `bwrap` sandboxes). ([website](https://undercat037.github.io/aura-emerge/) | [repository](https://github.com/Undercat037/aura-emerge))
