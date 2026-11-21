@@ -2,6 +2,7 @@
 
 > A hybrid distribution based on Artix, focused on maximum system control and Secure workflow
 
+**Status**: WIP | creation and testing utilities
 ## Project Progress 
 - [x] **`aura-emerge`**: Primary package manager (handles standard repos, AUR, and ABS cheсking via AST scanner, and build inside `bwrap` sandboxes). ([website](https://undercat037.github.io/aura-emerge/) | [repository](https://github.com/Undercat037/aura-emerge))
 - [ ] **Profiles**: Fast base installation with hot-swappable init systems.
